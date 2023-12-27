@@ -1,4 +1,4 @@
 # First_repo
-This is my first Git Repository.
+First Git Repository.
 <br>
 Author - Aman Shukla (NITK)
